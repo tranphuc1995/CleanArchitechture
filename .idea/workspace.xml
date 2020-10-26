@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d845bd46-c812-415d-b392-f19142248cc3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jBtCQW43YbsAK4fhpTWRi5Pwbb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5X_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-23T02:55:10.594Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.tranphuc.home_page" />
+      <recent name="com.tranphuc.domain.model" />
+      <recent name="com.tranphuc.domain.usecases" />
+      <recent name="com.tranphuc.domain.repository" />
+      <recent name="com.tranphuc.data" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.tranphuc.home_page.ui.list_user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TRAN PHUC\Desktop\Git\LineTest1-master\home_page\src\main\res\drawable" />
+      <recent name="C:\Users\TRAN PHUC\Desktop\Git\LineTest1-master\domain\src\main\java" />
+      <recent name="C:\Users\TRAN PHUC\Desktop\Git\LineTest1-master\home_page\src\main\res\layout" />
+      <recent name="C:\Users\TRAN PHUC\Desktop\Git\LineTest1-master\data\src\main\java\com\tranphuc\data\di" />
+      <recent name="C:\Users\TRAN PHUC\Desktop\Git\LineTest1-master\data\src\main\java\com\tranphuc\data\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.UserRepositoryImplTest">
+    <configuration name="UseCaseTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="home_page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tranphuc.home_page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tranphuc.home_page" />
+      <option name="MAIN_CLASS_NAME" value="com.tranphuc.home_page.UseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseCaseTest.test_logic_change_bookmark_list_user" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="home_page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tranphuc.home_page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tranphuc.home_page" />
+      <option name="MAIN_CLASS_NAME" value="com.tranphuc.home_page.UseCaseTest" />
+      <option name="METHOD_NAME" value="test_logic_change_bookmark_list_user" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryImplTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tranphuc.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tranphuc.data" />
+      <option name="MAIN_CLASS_NAME" value="com.tranphuc.data.UserRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryImplTest.test_get_list_user_from_api_success" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tranphuc.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tranphuc.data" />
+      <option name="MAIN_CLASS_NAME" value="com.tranphuc.data.UserRepositoryImplTest" />
+      <option name="METHOD_NAME" value="test_get_list_user_from_api_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="home_page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tranphuc.home_page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tranphuc.home_page" />
+      <option name="MAIN_CLASS_NAME" value="com.tranphuc.home_page.UtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.UserRepositoryImplTest" />
+        <item itemvalue="Android JUnit.UseCaseTest" />
+        <item itemvalue="Android JUnit.UtilsTest" />
+        <item itemvalue="Android JUnit.UseCaseTest.test_logic_change_bookmark_list_user" />
+        <item itemvalue="Android JUnit.UserRepositoryImplTest.test_get_list_user_from_api_success" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d845bd46-c812-415d-b392-f19142248cc3" name="Default Changelist" comment="" />
+      <created>1603289184034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603289184034</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="226" key="#PSD" timestamp="1603374650498">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="340" y="226" key="#PSD/0.0.1646.989@0.0.1646.989" timestamp="1603374650498" />
+    <state x="278" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603376788233">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="278" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1646.989@0.0.1646.989" timestamp="1603376788233" />
+    <state x="292" y="439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603378047602">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="292" y="439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1680.967@0.23.1680.967" timestamp="1603378047602" />
+    <state x="553" y="241" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603291474121">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="553" y="241" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1646.989@0.0.1646.989" timestamp="1603291474121" />
+    <state x="649" y="165" width="495" height="681" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1603420325307">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="649" y="165" width="495" height="681" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1680.966@0.23.1680.966" timestamp="1603420325307" />
+    <state x="428" y="268" key="AndroidCreateResourceFileDialog" timestamp="1603419920306">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="428" y="268" key="AndroidCreateResourceFileDialog/0.23.1680.967@0.23.1680.967" timestamp="1603419920306" />
+    <state x="603" y="249" key="FileChooserDialogImpl" timestamp="1603291182797">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="603" y="249" key="FileChooserDialogImpl/0.0.1646.989@0.0.1646.989" timestamp="1603291182797" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom" timestamp="1603467084799">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1602" height="271" key="GridCell.Tab.0.bottom/0.0.1646.989@0.0.1646.989" timestamp="1603376946738" />
+    <state width="1638" height="311" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1603421927281" />
+    <state width="1638" height="252" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1603378924926" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1603467084799" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1603428944516" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center" timestamp="1603467084799">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1602" height="271" key="GridCell.Tab.0.center/0.0.1646.989@0.0.1646.989" timestamp="1603376946738" />
+    <state width="1638" height="311" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1603421927280" />
+    <state width="1638" height="252" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1603378924925" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1603467084799" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1603428944515" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left" timestamp="1603467084798">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1602" height="271" key="GridCell.Tab.0.left/0.0.1646.989@0.0.1646.989" timestamp="1603376946738" />
+    <state width="1638" height="311" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1603421927280" />
+    <state width="1638" height="252" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1603378924925" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1603467084798" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1603428944515" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right" timestamp="1603467084799">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1602" height="271" key="GridCell.Tab.0.right/0.0.1646.989@0.0.1646.989" timestamp="1603376946738" />
+    <state width="1638" height="311" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1603421927281" />
+    <state width="1638" height="252" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1603378924926" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1603467084799" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1603428944516" />
+    <state width="1638" height="311" key="GridCell.Tab.1.bottom" timestamp="1603467084775">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.1.bottom/0.23.1680.966@0.23.1680.966" timestamp="1603421927281" />
+    <state width="1638" height="312" key="GridCell.Tab.1.bottom/0.23.1680.967@0.23.1680.967" timestamp="1603378924802" />
+    <state width="1638" height="311" key="GridCell.Tab.1.bottom/0.23.1680.972@0.23.1680.972" timestamp="1603467084775" />
+    <state width="1638" height="311" key="GridCell.Tab.1.center" timestamp="1603467084775">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.1.center/0.23.1680.966@0.23.1680.966" timestamp="1603421927281" />
+    <state width="1638" height="312" key="GridCell.Tab.1.center/0.23.1680.967@0.23.1680.967" timestamp="1603378924801" />
+    <state width="1638" height="311" key="GridCell.Tab.1.center/0.23.1680.972@0.23.1680.972" timestamp="1603467084775" />
+    <state width="1638" height="311" key="GridCell.Tab.1.left" timestamp="1603467084774">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.1.left/0.23.1680.966@0.23.1680.966" timestamp="1603421927281" />
+    <state width="1638" height="312" key="GridCell.Tab.1.left/0.23.1680.967@0.23.1680.967" timestamp="1603378924801" />
+    <state width="1638" height="311" key="GridCell.Tab.1.left/0.23.1680.972@0.23.1680.972" timestamp="1603467084774" />
+    <state width="1638" height="311" key="GridCell.Tab.1.right" timestamp="1603467084775">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.1.right/0.23.1680.966@0.23.1680.966" timestamp="1603421927281" />
+    <state width="1638" height="312" key="GridCell.Tab.1.right/0.23.1680.967@0.23.1680.967" timestamp="1603378924802" />
+    <state width="1638" height="311" key="GridCell.Tab.1.right/0.23.1680.972@0.23.1680.972" timestamp="1603467084775" />
+    <state width="840" height="476" key="XDebugger.FullValuePopup" timestamp="1603377768013">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="840" height="476" key="XDebugger.FullValuePopup/0.23.1680.967@0.23.1680.967" timestamp="1603377768013" />
+    <state x="100" y="123" width="1480" height="767" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1603421776853">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="100" y="123" width="1480" height="767" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1680.966@0.23.1680.966" timestamp="1603421776853" />
+    <state x="100" y="123" width="1480" height="767" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1680.967@0.23.1680.967" timestamp="1603378012767" />
+    <state x="799" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1603419766205">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="783" y="358" key="com.intellij.ide.util.TipDialog/0.0.1646.989@0.0.1646.989" timestamp="1603376967989" />
+    <state x="799" y="373" key="com.intellij.ide.util.TipDialog/0.23.1680.966@0.23.1680.966" timestamp="1603419766205" />
+    <state x="516" y="226" width="612" height="536" key="find.popup" timestamp="1603376763239">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="516" y="226" width="612" height="536" key="find.popup/0.0.1646.989@0.0.1646.989" timestamp="1603376763239" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CleanArchitechtureDemo$UserRepositoryImplTest.ic" NAME="UserRepositoryImplTest Coverage Results" MODIFIED="1603428944481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tranphuc.data.*</FILTER>
+    </SUITE>
+  </component>
+</project>

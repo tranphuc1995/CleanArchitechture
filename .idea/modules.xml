@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CleanArchitechtureDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/CleanArchitechtureDemo.iml" group="CleanArchitechtureDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="CleanArchitechtureDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data.iml" group="CleanArchitechtureDemo/data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/di/di.iml" filepath="$PROJECT_DIR$/.idea/modules/di/di.iml" group="CleanArchitechtureDemo/di" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/domain.iml" group="CleanArchitechtureDemo/domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/home_page/home_page.iml" filepath="$PROJECT_DIR$/.idea/modules/home_page/home_page.iml" group="CleanArchitechtureDemo/home_page" />
+    </modules>
+  </component>
+</project>
